@@ -1,3 +1,3 @@
 # Hola Mundo
 
-Este es mi repository.
+Este es mi repositorio.
